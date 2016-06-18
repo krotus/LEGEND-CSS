@@ -1,0 +1,13 @@
+{
+  "name": "legend-css",
+  "version": "1.0.0",
+  "description": "Framework CSS first mobile.",
+  "style": "legend.scss",
+  "main": "legend.scss",
+  "author": "Andreu Sala <andreus.sala@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krotus/LEGEND-CSS"
+  },
+  "license": "ISC"
+}
